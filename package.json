@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iRayanKhan/homebridge-tuya.git"
+    "url": "git+https://github.com/pauldmps/homebridge-tuya.git"
   },
   "author": "Rayan Khan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iRayanKhan/homebridge-tuya/issues"
+    "url": "https://github.com/pauldmps/homebridge-tuya/issues"
   },
-  "homepage": "https://github.com/iRayanKhan/homebridge-tuya#readme",
+  "homepage": "https://github.com/pauldmps/homebridge-tuya#readme",
   "dependencies": {
     "async": "^3.2.2",
     "commander": "^3.0.1",
